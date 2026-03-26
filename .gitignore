@@ -1,0 +1,22 @@
+# Build artifacts
+/target
+
+# Environment / secrets
+.env
+.env.*
+
+# IDE / editor
+.vscode/
+.idea/
+*.code-workspace
+*.swp
+*.swo
+*~
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Generated output folders (game settings)
+*/steam_settings/
